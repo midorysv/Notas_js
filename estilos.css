@@ -1,0 +1,53 @@
+body {
+  background-color: #1c1c1c;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.text-rosa {
+  color: #ff69b4;
+}
+
+.bg-rosa-claro {
+  background-color: #ffb6c1;
+  color: black;
+}
+
+.btn-rosa {
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+}
+
+.btn-rosa:hover {
+  background-color: #ff1493;
+}
+
+.table-rosa th {
+  background-color: #ff69b4 !important;
+  color: white;
+}
+/* Ya existente */
+.btn-rosa {
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+}
+
+.btn-rosa:hover {
+  background-color: #ff1493;
+}
+
+/* Para botones pequeños también */
+.btn-rosa-sm {
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+  padding: 0.3rem 0.6rem;
+  font-size: 0.875rem;
+  border-radius: 0.25rem;
+}
+
+.btn-rosa-sm:hover {
+  background-color: #ff1493;
+}
